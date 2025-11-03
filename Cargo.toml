@@ -7,7 +7,7 @@ license = "MIT"
 [dependencies]
 hashbrown = "0.16.0"
 indexmap = "2.12.0"
-rallo = "0.5.1"
+rallo = "0.5.2"
 regex = "1.12.2"
 sqlx = { version = "0.8.6", features = ["postgres", "runtime-tokio" ] }
 tokio = { version = "1.48.0", features = ["full"] }

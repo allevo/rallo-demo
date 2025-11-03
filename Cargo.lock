@@ -851,9 +851,9 @@ dependencies = [
 
 [[package]]
 name = "rallo"
-version = "0.5.1"
+version = "0.5.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7fd2a76b2abcfbd7fdf5dd052165a277938ec61912525bd0e1f03c3ed98fc8c2"
+checksum = "c90daeb14cbbc41dd770c420536789ba9c1c4f1de26aee65a197143ed562d0d5"
 dependencies = [
  "backtrace",
  "rustc-demangle",
